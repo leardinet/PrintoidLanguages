@@ -15,8 +15,8 @@
     <string name="notification_file">File: %s</string>
     <string name="notification_time_progress">Tempo avanzamento: %.1f%%</string>
     <string name="notification_gcode_progress">Gcode avanzamento: %.1f%%</string>
-    <string name="notification_remaining_time">Tempo rimanente: %s</string>
-    <string name="notification_end_time">Tempo finito: %s</string>
+    <string name="notification_remaining_time">Finirà alle: %s</string>
+    <string name="notification_end_time">Finirà alle: %s</string>
     <string name="notification_temperature">Temperatura: %1$.1f° / %2$.1f°</string>
     <string name="notification_temperature_ext_0">Ext0 [%1$.1f°/%2$.1f°]</string>
     <string name="notification_temperature_ext_1">Ext1 [%1$.1f°/%2$.1f°]</string>

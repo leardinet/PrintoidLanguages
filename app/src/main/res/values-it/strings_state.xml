@@ -19,9 +19,9 @@
     <string name="file_label">File:</string>
     <string name="file_empty">Nessun file caricato</string>
     <string name="end_time_empty">&#8212;</string>
-    <string name="end_time_label">Tempo finito:</string>
-    <string name="end_time_label_no_column">Tempo finito</string>
-    <string name="end_time">Tempo finito: %s</string>
+    <string name="end_time_label">Finirà alle:</string>
+    <string name="end_time_label_no_column">Finirà alle</string>
+    <string name="end_time">Finirà alle: %s</string>
     <string name="printed_empty">&#8212;</string>
     <string name="printed_label">Stampato:</string>
     <string name="current_z">Z:</string>
